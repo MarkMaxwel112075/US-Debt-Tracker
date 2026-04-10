@@ -1,5 +1,9 @@
 # US National Debt Analysis & Forecasting
-US national debt analysis using Treasury data with trend identification, debt segmentation, and forecasting of long-term growth
+## Key Results
+- Analysed $31T+ US debt dataset
+- Growth slowdown: 6.1% → 0.1%
+- Identified ~5.2% seasonal patterns
+- Forecast: $24.6T → $32.3T by 2028 (+31%)
 
 ## Overview
 
